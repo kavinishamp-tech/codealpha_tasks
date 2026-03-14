@@ -1,4 +1,4 @@
-# 📌 Task 1: Web Scraping
+# 📌Web Scraping Project
 
 ## 📖 Description
 This project demonstrates web scraping using Python to extract data from a public website. The script collects information about books such as title, price, and rating, and stores the extracted data in a structured dataset for analysis.
